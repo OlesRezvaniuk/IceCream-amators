@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlesRezvaniuk.github.io/dsasa",
+  "homepage": "https://OlesRezvaniuk.github.io/IceCream-amators",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /dsasa/"
+    "build": "parcel build src/*.html --public-url /IceCream-amators/"
   },
   "repository": {
     "type": "git",
